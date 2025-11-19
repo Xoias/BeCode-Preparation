@@ -17,6 +17,5 @@ This repository documents my learning journey while preparing for the Cybersecur
 
 More about me:
 
-- LinkedIn: <add link>
 - GitHub: https://github.com/Xoias
 
